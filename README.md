@@ -5,7 +5,7 @@
 1. W.A.P to print the ASCII value of the character entered by the user.
 
 2. W.A.P to solve the following equation where values of a and b are entered by the user:
-			c = 2a + b/a - a/2.5 * b *(a/3 - b).
+	c = 2a + b/a - a/2.5 * b *(a/3 - b).
 
 3. W.A.P to solve the following equations where values of x and y are entered by the user:
 	* 3x^3 + 4* x^3 * y^2 -6y + 2xy - y^2
