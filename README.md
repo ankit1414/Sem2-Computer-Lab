@@ -2,7 +2,7 @@
 
 ## Expression & Evaluation Program
 
-1. W.A.P to print the ASCII value of the character entered by the user.
+1. [W.A.P](char2int.c) to print the ASCII value of the character entered by the user.
 
 2. W.A.P to solve the following equation where values of a and b are entered by the user:
 	c = 2a + b/a - a/2.5 * b *(a/3 - b).
