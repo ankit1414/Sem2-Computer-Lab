@@ -9,6 +9,7 @@
 
 3. W.A.P to solve the following equations where values of x and y are entered by the user:
 			1. 3x^3 + 4* x^3 * y^2 -6y + 2xy - y^2
+			
 			2. 2.5log(x) - cos(30) + x^3 - y^2
 			
 4. W.A.P to convert temperature in degree to Fahrenheit.
