@@ -1,5 +1,7 @@
 # SEM 2 Computer Lab
 
+[Front Page + Index](ITP.docx)
+
 ## Expression & Evaluation Programs
 
 1. [W.A.P](char2int.c) to print the ASCII value of the character entered by the user.
