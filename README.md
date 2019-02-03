@@ -33,3 +33,9 @@
 5. [W.A.P](palin.c) to find whether a 3 digit number entered by the user is palindrome or not.
 
 6. [W.A.P](leapyear.c) to find whether the year entered by the user in dd/mm/yy form is a leap year or not.
+
+## Switch Statement Programs
+
+1. [W.A.P](calculator.c) to make a calculator where the operator is entered by the user.
+
+2. [W.A.P](vowel.c) to find whether the character entered by the user is a vowel.
