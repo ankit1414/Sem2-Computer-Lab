@@ -39,3 +39,20 @@
 1. [W.A.P](calculator.c) to make a calculator where the operator is entered by the user.
 
 2. [W.A.P](vowel.c) to find whether the character entered by the user is a vowel.
+
+## Series Programs Using Nested Looping Statement
+
+1. [W.A.P](series.c) to find the sum of 'n' terms of the following series, where the value of 'n' is entered by the user:
+	x + (x^2)/2! + (x^3)/3! + ... + (x^n)/n!
+	
+2. 	[W.A.P](numrev.c) to reverse a number entered by the user and then finds whether the number is a palindrome or not.
+
+3. [W.A.P](factors.c) to find the factors of the number entered by the user.
+
+4. [W.A.P](average.c) to find the average of 'n' numbers entered by the user.
+
+5. [W.A.P](numlen.c) to find the number of digits present in the number entered by the user.
+
+6. [W.A.P](numsum.c) to find the sum of the digits of a number entered by the user.
+
+7. [W.A.P](squsqu.c) which finds 4 digit perfect squares where the first 2 digits and last 2 digits are also perfect squares.
