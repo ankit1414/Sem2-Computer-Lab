@@ -43,7 +43,7 @@
 ## Series Programs Using Nested Looping Statement
 
 1. [W.A.P](series.c) to find the sum of 'n' terms of the following series, where the value of 'n' is entered by the user:
-	x + (x^2)/2! + (x^3)/3! + ... + (x^n)/n!
+	* x + (x^2)/2! + (x^3)/3! + ... + (x^n)/n!
 	
 2. 	[W.A.P](numrev.c) to reverse a number entered by the user and then finds whether the number is a palindrome or not.
 
