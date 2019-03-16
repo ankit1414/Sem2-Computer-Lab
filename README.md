@@ -66,9 +66,9 @@
 
 2. [W.A.P](ptrn2.c) to generate the following patter:
 	```
-	>  1  
-	> 121  
-	>12321
+	  1  
+	 121  
+	12321
 	```
 
 ## Multidimensional Array Programs
