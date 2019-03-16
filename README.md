@@ -60,13 +60,13 @@
 ## Pattern Programming Using Nested Loops
 
 1. [W.A.P](ptrn1.c) to generate the following patter:
-	>*
-	>* *
-	>* * *
+	> \*  
+	> \* \*  
+	> \* \* \*
 
 2. [W.A.P](ptrn2.c) to generate the following patter:
-	>  1
-	> 121
+	>  1  
+	> 121  
 	>12321
 
 ## Multidimensional Array Programs
