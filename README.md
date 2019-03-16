@@ -56,3 +56,47 @@
 6. [W.A.P](numsum.c) to find the sum of the digits of a number entered by the user.
 
 7. [W.A.P](squsqu.c) which finds 4 digit perfect squares where the first 2 digits and last 2 digits are also perfect squares.
+
+## Pattern Programming Using Nested Loops
+
+1. [W.A.P](ptrn1.c) to generate the following patter:
+	>*
+	>* *
+	>* * *
+
+2. [W.A.P](ptrn2.c) to generate the following patter:
+	>  1
+	> 121
+	>12321
+
+## Multidimensional Array Programs
+
+1. [W.A.P](arr.c) to store the values entered by the user in an array and then displays the position of those elements in an array.
+
+2. [W.A.P](arrdup.c) to replace the duplicate elements of an array with any character.
+
+3. [W.A.P](matrix.c) to find the minimum and maximum values entered by the user in a matrix.
+
+4. [W.A.P](arravg.c) to find the average of elements entered by the user in an array.
+
+5. [W.A.P](arrpos.c) to display the position of the elements entered by the user in an array along with addresses of those elements.
+
+6. [W.A.P](matsum.c) to add two matrices entered by the user.	
+
+7. [W.A.P](matdiff.c) to subtract two matrices entered by the user.
+
+8. [W.A.P](transpose.c) to the transpose of a matrix entered by the user.	
+
+## String Handling Programs
+
+1. [W.A.P](cipher.c) to cipher a string entered by the user.
+
+2. [W.A.P](strcpy.c) to copy a string entered by the user without using the string functions.
+
+3. [W.A.P](strlen.c) to calculate the length of a string entered by the user without using the string functions.
+
+4. [W.A.P](strcmp.c) to compare two strings entered by the user without using the string functions.
+
+5. [W.A.P](strfind.c) to find the location of the word in a string entered by the user.
+
+6. [W.A.P](strpal.c) to find whether the string entered by the user is a palindrome or not.
