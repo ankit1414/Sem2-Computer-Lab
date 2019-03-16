@@ -65,7 +65,7 @@
 	> \* \* \*
 
 2. [W.A.P](ptrn2.c) to generate the following patter:
-	>  1  
+	>+ 1  
 	> 121  
 	>12321
 
