@@ -85,9 +85,9 @@
 
 6. [W.A.P](matsum.c) to add two matrices entered by the user.	
 
-7. [W.A.P](matdiff.c) to subtract two matrices entered by the user.
+7. [W.A.P](matdif.c) to subtract two matrices entered by the user.
 
-8. [W.A.P](transpose.c) to the transpose of a matrix entered by the user.	
+8. [W.A.P](transpose.c) to display the transpose of a matrix entered by the user.	
 
 ## String Handling Programs
 
