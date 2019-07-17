@@ -1,6 +1,5 @@
 # SEM 2 Computer Lab
 
-[Front Page + Index](ITP.docx)
 
 ## Expression & Evaluation Programs
 
